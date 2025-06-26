@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "johnwatkins0/wp-autoload",
+  "name": "colbycommunications/wp-autoload",
   "description": "Autoloader for WordPress classes, traits, and interfaces.",
   "authors": [
     {
